@@ -1,5 +1,5 @@
-window.alert("Please use headphone while listening this recording.There is something I want to say you. It's really important for me! 🙏🙏🙏🙏 I am requesting 🙏🙏🙏 you to Please inform me after listen this recording. This is my number: 8271062412 (whatsapp) or 9304798027.    To rewatch these messeges just refresh this page.");
-window.alert("I am again requesting 🙏🙏🙏 you to Please inform me after listen this recording. This is my number: 8271062412 (whatsapp) or 9304798027.");
+window.alert("Please use headphone while listening this recording.There is something we all wana say to you.");
+window.alert("Headphone laga lenaa, phir se bol rhe hai, sun n eke bad acha laga to sabko call karke baat krliyo.");
 
 
 $(function()
